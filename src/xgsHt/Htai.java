@@ -16,10 +16,10 @@ import java.util.Random;
 import org.junit.*;
 
 public class Htai {
-//	WebDriver driver = new ChromeDriver();
-	WebDriver driver = new FirefoxDriver();
+	WebDriver driver = new ChromeDriver();
+//	WebDriver driver = new FirefoxDriver();
 //	"firefox","chrome"
-	String browse = "firefox";
+	String browse = "chrome";
 	
 	Date date = new Date();
 	Random random = new Random();
